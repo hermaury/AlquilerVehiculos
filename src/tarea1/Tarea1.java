@@ -1,5 +1,5 @@
 
-package tarea1;
+package ;
 
 import java.util.Random;
 import javax.swing.JOptionPane;
